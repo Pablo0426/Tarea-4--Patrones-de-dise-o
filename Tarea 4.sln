@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder2", "NewFolder2", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder3", "NewFolder3", "{2DBD6ED8-3A6B-4FC0-80C3-02AE87D48CD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_form", "Singleton_form\Singleton_form.csproj", "{6F4CFDF9-C2C4-4205-9F1F-0E006A6762C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_Csharp", "Singleton_form\Singleton_Csharp.csproj", "{6F4CFDF9-C2C4-4205-9F1F-0E006A6762C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

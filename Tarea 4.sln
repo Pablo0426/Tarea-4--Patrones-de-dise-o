@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron Singleton CSharp", "Patron Singleton CSharp", "{5F8F325C-DCAA-48D0-A1D0-CE2B663417D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder2", "NewFolder2", "{2BFF526C-366E-4D75-B43E-676F6B64E37D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder3", "NewFolder3", "{2DBD6ED8-3A6B-4FC0-80C3-02AE87D48CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton_form", "Singleton_form\Singleton_form.csproj", "{6F4CFDF9-C2C4-4205-9F1F-0E006A6762C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F4CFDF9-C2C4-4205-9F1F-0E006A6762C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4CFDF9-C2C4-4205-9F1F-0E006A6762C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4CFDF9-C2C4-4205-9F1F-0E006A6762C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4CFDF9-C2C4-4205-9F1F-0E006A6762C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6F4CFDF9-C2C4-4205-9F1F-0E006A6762C2} = {5F8F325C-DCAA-48D0-A1D0-CE2B663417D1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF0B47C1-75E2-4436-BA4D-450D42F8D1B3}
+	EndGlobalSection
+EndGlobal

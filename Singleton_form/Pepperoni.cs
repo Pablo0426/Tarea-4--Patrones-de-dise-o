@@ -24,7 +24,7 @@ namespace Singleton_form
 
         private static Pepperoni pizza;
 
-        public static Pepperoni objeto()
+        public static Pepperoni objeto() //Solo podra generarse unua sola ventana de esta clase
         {
             if (pizza == null)
             {

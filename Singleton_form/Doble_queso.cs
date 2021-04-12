@@ -24,7 +24,7 @@ namespace Singleton_form
 
         private static Doble_queso pizza;
 
-        public static Doble_queso objeto()
+        public static Doble_queso objeto() //Solo podra generarse unua sola ventana de esta clase
         {
             if (pizza == null)
             {

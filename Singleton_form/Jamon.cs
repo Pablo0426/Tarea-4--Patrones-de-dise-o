@@ -24,7 +24,7 @@ namespace Singleton_form
 
         private static Jamon pizza;
 
-        public static Jamon objeto()
+        public static Jamon objeto() //Solo podra generarse unua sola ventana de esta clase
         {
             if (pizza == null)
             {
